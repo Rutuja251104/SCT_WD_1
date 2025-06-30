@@ -21,4 +21,4 @@ This project features an interactive navigation menu that dynamically changes it
 2. Open the project directory.
 3. Open the `index.html` file in your preferred web browser.
 
-Feel free to customize the HTML, CSS, and JavaScript code to suit your specific requirements and design preferences. If you encounter any issues or have suggestions for improvements, please don't hesitate to open an issue or submit a pull request. Thank you for using this interactive navigation menu! 🚀
+
